@@ -5,10 +5,10 @@
 
 ## 📊 **Basic Stats**
 
-**n_messages_sent**: 933
+**n_messages_sent**: 935
 
 ---
-![wordcloud](DEXToolsCommunity_2Days_worcloud.png)
+![wordcloud](DEXToolsCommunity_2Days_wordcloud.png)
 
 ---
 
@@ -67,45 +67,45 @@
 
     @jamesattehwatercooler --- *same problem here, I cleared cookies in my browser today and suddenly the DEXT chart doesn't work anymore (it's fine on tradingview, poocoin, coinhall however)* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307898)
 
-5. **day hot**
-
-    @CryptoCavalier --- *I've been having issues with dextools for a couple of days now. The prices don't match up to the chart, they stop updating and chart doesn't move. I have to refresh to get the price. Can devs please look into this?* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/306731)
-
-    @FredericDEXT --- *In the next days yes* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307781)
-
-    @FredericDEXT --- *We will check, devs are doing updates at the backend these days, thanks for reporting* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/305926)
-
-    @kiss98 --- *Can you solve some of the coins on HOT PAIRS , they don't have much trading volume. But every day has been on top of HOT PAIRS , numerous days, they have been HOT PAIRS, is there a problem with the algorithm?* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307731)
-
-    @THoMAs --- *Since 2 days Charts down* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307833)
-
-    @christophercharles92 --- *I've tried messaging him for a day now and hes not reading the messages* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307952)
-
-6. **problem pricefeed**
-
-    @Lucky Star --- *3dog/eth price on UNI has been stuck for 3-4 hours. Is there some problem with the pricefeed for this pool?* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307701)
-
-    @mixedbymallen --- *Anyone using dextools on mac Big Sur and are having problems with tradingview not opening* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/308023)
-
-    @kiss98 --- *Can you solve some of the coins on HOT PAIRS , they don't have much trading volume. But every day has been on top of HOT PAIRS , numerous days, they have been HOT PAIRS, is there a problem with the algorithm?* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307731)
-
-    @atosm --- *the ilv/eth price on sushi has been stuck for 3-4 hours. Is there some problem with the pricefeed for this pool?* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307685)
-
-    @jamesattehwatercooler --- *same problem here, I cleared cookies in my browser today and suddenly the DEXT chart doesn't work anymore (it's fine on tradingview, poocoin, coinhall however)* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307898)
-
-    @napascual --- *Could you dm me a screenshot? I'm not having problems here, it may be a browser issue with app* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/306347)
-
-7. **chart work**
-
-    @mixedbymallen --- *Does anyone have a proble with Dextools loading tradingview chart on Big Sur for Mac* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307630)
+5. **contract auditor**
 
     @stanes --- *You have to buy the number of DEXT required:  DEXT PANCAKESWAP PAIR Chart and trade: https://www.dextools.io/app/pancakeswap/pair-explorer/0x4b729d5d871057f3a9c424792729217cde72410d Contract: 0xe91a8d2c584ca93c7405f15c22cdfe53c29896e3  Then you send them to the address the app gives you.* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/306439)
 
-    @td4400 --- *Admins, why poocoin has a chart for this:0x4e3dca33ec4fbcdaf0b29ac229408bb247b71e5f but on dextools there is no real chart found for this.* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/306078)
+    @stanes --- *Your contract is not verified on bscscan.* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/308192)
 
-    @stanes --- *So, if you try to open for example this page: https://www.dextools.io/app/ether/pair-explorer/0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d on chrome and egde you can't see the chart. Is that correct?* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/308362)
+    @stanes --- *Which exchange? You can give me the contract address.* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/308370)
 
-    @CryptoCavalier --- *I've been having issues with dextools for a couple of days now. The prices don't match up to the chart, they stop updating and chart doesn't move. I have to refresh to get the price. Can devs please look into this?* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/306731)
+    @stanes --- *Give me the contract address, I will ask the devs to update the audit.* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307369)
 
-    @stanes --- *Did you try to sell directly on Pancakeswap? If still doesn't work, it's probably a scam.* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/308360)
+    @stanes --- *Not possible. "Contract Details" is an audit of the contract.* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307323)
+
+    @stanes --- *There is very very likely a tax on this token (not from Dextools, from the token contract).* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/305642)
+
+6. **project look**
+
+    @savasfaraz --- *Hey I want to promote my project by ads* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/306055)
+
+    @stanes --- *I see. I will ask the devs to have a look. Thanks for reporting.* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/306724)
+
+    @JollyBZ --- *Our projects mcap is reading wrong* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307162)
+
+    @Bokim88 --- *Whenever i or anyone looking at our token goes to dextools and types in flokigold or floki gold it comes up with a dead project* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/306722)
+
+    @JollyBZ --- *our projects logo just appeared on dextools. does that pull from somewhere?* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307747)
+
+    @irahuljadhav --- *Hello, in the contract details section of my newly launched BSC project, it shows "Looks like owner can set a high fee" message.  Contract has been audited and I showed it to the auditor and he said there's no such function in the contract and asked me to check with your team to see why that might be happening. Please help* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/308033)
+
+7. **look owner**
+
+    @stanes --- *I see. I will ask the devs to have a look. Thanks for reporting.* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/306724)
+
+    @irahuljadhav --- *Hello, in the contract details section of my newly launched BSC project, it shows "Looks like owner can set a high fee" message.  Contract has been audited and I showed it to the auditor and he said there's no such function in the contract and asked me to check with your team to see why that might be happening. Please help* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/308033)
+
+    @irahuljadhav --- *Hello admins, in the contract details section of my newly launched BSC project, it shows "Looks like owner can set a high fee" message.  Contract has been audited and I showed it to the auditor and he said there's no such function in the contract and asked me to get it resolved with DexTools team. Please help* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307737)
+
+    @stanes --- *Reported, devs will have a look asap. Thanks.* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/307705)
+
+    @napascual --- *Dm the pair, I'll take a look* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/306340)
+
+    @hmk18990 --- *you should ask it to token owners. if token is available in one of the known bridges answer is yes. you can exchange them between networks via bridge.* **--->** [TG Discussion](https://t.me/DEXToolsCommunity/305531)
 

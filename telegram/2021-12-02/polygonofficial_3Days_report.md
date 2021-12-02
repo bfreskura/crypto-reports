@@ -5,10 +5,10 @@
 
 ## 📊 **Basic Stats**
 
-**n_messages_sent**: 3729
+**n_messages_sent**: 3741
 
 ---
-![wordcloud](polygonofficial_3Days_worcloud.png)
+![wordcloud](polygonofficial_3Days_wordcloud.png)
 
 ---
 

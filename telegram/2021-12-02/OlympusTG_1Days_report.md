@@ -5,10 +5,10 @@
 
 ## 📊 **Basic Stats**
 
-**n_messages_sent**: 2704
+**n_messages_sent**: 2710
 
 ---
-![wordcloud](OlympusTG_1Days_worcloud.png)
+![wordcloud](OlympusTG_1Days_wordcloud.png)
 
 ---
 

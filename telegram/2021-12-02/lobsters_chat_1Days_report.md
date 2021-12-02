@@ -5,10 +5,10 @@
 
 ## 📊 **Basic Stats**
 
-**n_messages_sent**: 775
+**n_messages_sent**: 782
 
 ---
-![wordcloud](lobsters_chat_1Days_worcloud.png)
+![wordcloud](lobsters_chat_1Days_wordcloud.png)
 
 ---
 
@@ -41,15 +41,15 @@
 
     @raoufbenhar --- *What do you guys think of StarkNet? Been playing around with Cairo* **--->** [TG Discussion](https://t.me/lobsters_chat/304221)
 
-    @GuthL --- *> if dYdX were to deploy to starkNet... would they still submit just their transactions all at once to L1 as they do now? If not, how would they be able to pay that cost for their users if the transactions were going into whatever settlement transaction that was next up to bat Not sure to understand* **--->** [TG Discussion](https://t.me/lobsters_chat/303651)
+    @khanHamzah --- *How about a dash of “stateless” recursive starknets..* **--->** [TG Discussion](https://t.me/lobsters_chat/304309)
 
-    @GuthL --- *StarkNet is a general purpose network with smart contract support* **--->** [TG Discussion](https://t.me/lobsters_chat/303648)
+    @amazongirl2 --- *Thanks! On ZigZag you can trade on zkRollups mainnet and Starknet testnet, with Starknet mainnet live in a few days. 😃* **--->** [TG Discussion](https://t.me/lobsters_chat/304338)
 
-    @amazongirl2 --- *What is difference between StarkEx and Starknet? 🧐* **--->** [TG Discussion](https://t.me/lobsters_chat/303643)
+    @GuthL --- *Note that StarkNet Cairo is a simplified version of Cairo. It looks like a smart contract language (no more hints)* **--->** [TG Discussion](https://t.me/lobsters_chat/304277)
 
-    @amazongirl2 --- *What r the main benefits of starknet over zksync?* **--->** [TG Discussion](https://t.me/lobsters_chat/303635)
+    @GuthL --- *Not sure why you say that. But you are right that StarkNet is not Zero Knowledge right now. But anyone can build any arbitrary privacy solution on top* **--->** [TG Discussion](https://t.me/lobsters_chat/304296)
 
-    @jpwjs --- *so each starkNet settlement to L1... they would be able to pay for just the dYdX transactions in a starkNet L1 settlement.* **--->** [TG Discussion](https://t.me/lobsters_chat/303661)
+    @amazongirl2 --- *The trade completed so fast on Starknet that update to display took longer than the trade itself.* **--->** [TG Discussion](https://t.me/lobsters_chat/304340)
 
 4. **tornado cash**
 
@@ -71,17 +71,21 @@
 
     @TLink_9 --- *0xhabitat had their multisig hacked. Anyone care to take a look?  exploiter wallet: https://etherscan.io/address/0x26a76f4fe7a21160274d060acb209f515f35429c  exploit tx transfer: https://etherscan.io/tx/0xac9e668f48cb934de459ee4adc9bf8ec2ce2829ace6ffb8cf761746a6a8628f5* **--->** [TG Discussion](https://t.me/lobsters_chat/304369)
 
-    @GuthL --- *For dYdX, the biggest advantage to move to StarkNet would be that users would have access to multisig, vault strategy and anything composability brings* **--->** [TG Discussion](https://t.me/lobsters_chat/303653)
-
     @Rderaul --- *well... if token deployer is executed from a multisig instead of a (most prob anon?) single eoa you can arguably say that the founding decision making of releasing the token was decentralized (it will come to the point to see how many ppl took part on that, etc.)* **--->** [TG Discussion](https://t.me/lobsters_chat/304265)
 
     @coine_r --- *That doesn't really follow.  Whether it's a me, myself, and I multisig or a generic address, there is little to no substance in talking about "decentralization" here.* **--->** [TG Discussion](https://t.me/lobsters_chat/304289)
 
     @ivangbi --- *No armchair legal here. Don’t trouble your mind with their retarded shit. Is a multisig 10/20 of semi-anons in DAO a general partnership? Who knows. But well if you have 0 admin signatures and true governor alpha like compound / aave - likely then is really NOT.* **--->** [TG Discussion](https://t.me/lobsters_chat/304321)
 
-6. **eip support**
+    @blockminded --- *Ok so multisig was not exploited, multisig signatories were - calling it a multisig exploit would imply to me gnosis safe was compromised* **--->** [TG Discussion](https://t.me/lobsters_chat/304404)
 
-    @GuthL --- *StarkNet is a general purpose network with smart contract support* **--->** [TG Discussion](https://t.me/lobsters_chat/303648)
+6. **fei**
+
+    @ivangbi --- *-> Fei Labs core members and advisors have a 5-year vesting schedule. We’ll need to discuss Rari members/founders/advisors possibly doing the same (this has been discussed somewhat internally by Fei Labs core members, and I’m surprised it wasn’t at all in the proposal)* **--->** [TG Discussion](https://t.me/lobsters_chat/304357)
+
+    @vPEPO --- *that's the Fei guy* **--->** [TG Discussion](https://t.me/lobsters_chat/304358)
+
+7. **eip support**
 
     @zhongfu --- *eip1559 support for TT now merged into master https://github.com/MetaMask/metamask-extension/pull/12627* **--->** [TG Discussion](https://t.me/lobsters_chat/304225)
 
@@ -93,9 +97,5 @@
 
     @zhongfu --- *(also tt eip712/signTypedData support coming too -- already in master, probably available in the next fw release)* **--->** [TG Discussion](https://t.me/lobsters_chat/304228)
 
-7. **fei**
-
-    @ivangbi --- *-> Fei Labs core members and advisors have a 5-year vesting schedule. We’ll need to discuss Rari members/founders/advisors possibly doing the same (this has been discussed somewhat internally by Fei Labs core members, and I’m surprised it wasn’t at all in the proposal)* **--->** [TG Discussion](https://t.me/lobsters_chat/304357)
-
-    @vPEPO --- *that's the Fei guy* **--->** [TG Discussion](https://t.me/lobsters_chat/304358)
+    @sir_integra_hellsing --- *Doesn't ERC777 support this and they are already compatible with ERC20 iirc?* **--->** [TG Discussion](https://t.me/lobsters_chat/304494)
 

@@ -5,17 +5,37 @@
 
 ## 📊 **Basic Stats**
 
-**n_messages_sent**: 187
+**n_messages_sent**: 170
 
 ---
-![wordcloud](defisearchpublic_2Days_worcloud.png)
+![wordcloud](defisearchpublic_2Days_wordcloud.png)
 
 ---
 
 
 ## 🔝 **Top keywords and related messages**
 
-1. **travala**
+1. **ava**
+
+    @Landon --- *AVA is this Avax ?* **--->** [TG Discussion](https://t.me/defisearchpublic/239644)
+
+    @Josh --- *Stake AVA in the Bybit Launchpool and Share in the 1,000,000 TRVL Prize Pool  The synergies between the AVA token and TRVL token continue to increasingly benefit AVA holders, with the announcement of an exclusive TRVL prize pool set aside for AVA (ERC20) in the Bybit launchpool.* **--->** [TG Discussion](https://t.me/defisearchpublic/239640)
+
+    @Josh --- *Nope. Is Travala AVA. :)* **--->** [TG Discussion](https://t.me/defisearchpublic/239645)
+
+2. **socialfi**
+
+    @Fabi --- *that's how SocialFi works?* **--->** [TG Discussion](https://t.me/defisearchpublic/239586)
+
+    @NiEcil --- *then you should involve yourself now with Torum and become an early adapter of socialfi metaverse* **--->** [TG Discussion](https://t.me/defisearchpublic/239566)
+
+    @Fabi --- *me as well, I just saw this post on reddit, they said it's the leading socialfi platform.* **--->** [TG Discussion](https://t.me/defisearchpublic/239568)
+
+    @NiEcil --- *you gotta be kidding guys, torum is very popular now on socialfi metaverse. You've been missing a great opportunity to ape in* **--->** [TG Discussion](https://t.me/defisearchpublic/239569)
+
+    @Fabi --- *anyone here familiar with socialfi metaverse?* **--->** [TG Discussion](https://t.me/defisearchpublic/239562)
+
+3. **travala**
 
     @Josh --- *Nope. Is Travala AVA. :)* **--->** [TG Discussion](https://t.me/defisearchpublic/239645)
 
@@ -23,7 +43,7 @@
 
     @Landon --- *What travala?* **--->** [TG Discussion](https://t.me/defisearchpublic/239646)
 
-2. **social medium**
+4. **social medium**
 
     @NiEcil --- *Torum is making itself the first crypto-focused social media platform.* **--->** [TG Discussion](https://t.me/defisearchpublic/239584)
 
@@ -37,7 +57,7 @@
 
     @NiEcil --- *Torum  take the wheel and build a one-stop Social Metaverse by launching Torum Avatar NFTs, the world’s first social-integrated PFP NFTs.* **--->** [TG Discussion](https://t.me/defisearchpublic/239597)
 
-3. **torum avatar**
+5. **feature torum**
 
     @Inessa --- *may I know who backed up Torum?* **--->** [TG Discussion](https://t.me/defisearchpublic/239600)
 
@@ -46,42 +66,26 @@
     @Fabi --- *What are the features of torum?* **--->** [TG Discussion](https://t.me/defisearchpublic/239591)
 
     @NiEcil --- *with Torum users are rewarded with XTM for their time and content.* **--->** [TG Discussion](https://t.me/defisearchpublic/239588)
-
-    @Inessa --- *how, and what is Torum by the way?* **--->** [TG Discussion](https://t.me/defisearchpublic/239567)
-
-    @NiEcil --- *yes they just launched their avatar nft marketplace* **--->** [TG Discussion](https://t.me/defisearchpublic/239594)
-
-4. **metaverse torum**
-
-    @Inessa --- *may I know who backed up Torum?* **--->** [TG Discussion](https://t.me/defisearchpublic/239600)
-
-    @NiEcil --- *Torum is making itself the first crypto-focused social media platform.* **--->** [TG Discussion](https://t.me/defisearchpublic/239584)
-
-    @Fabi --- *What are the features of torum?* **--->** [TG Discussion](https://t.me/defisearchpublic/239591)
-
-    @NiEcil --- *with Torum users are rewarded with XTM for their time and content.* **--->** [TG Discussion](https://t.me/defisearchpublic/239588)
-
-    @Inessa --- *how, and what is Torum by the way?* **--->** [TG Discussion](https://t.me/defisearchpublic/239567)
 
     @NiEcil --- *then you should involve yourself now with Torum and become an early adapter of socialfi metaverse* **--->** [TG Discussion](https://t.me/defisearchpublic/239566)
 
-5. **blockchain technology**
+    @Inessa --- *how, and what is Torum by the way?* **--->** [TG Discussion](https://t.me/defisearchpublic/239567)
 
-    @Josh --- *Travala,The world’s leading blockchain-based travel booking platform* **--->** [TG Discussion](https://t.me/defisearchpublic/239648)
+6. **avatar nft**
 
-    @NiEcil --- *We have already seen several social media platforms built on blockchain technology, such as Synereo, Hive, and Steemit.* **--->** [TG Discussion](https://t.me/defisearchpublic/239575)
+    @NiEcil --- *yes they just launched their avatar nft marketplace* **--->** [TG Discussion](https://t.me/defisearchpublic/239594)
 
-    @NiEcil --- *They are focusing more on blockchain technology and cryptocurrency itself, and as such, they are forming a community primarily made up of crypto users. They are implementing many crypto-focused features on their platform.* **--->** [TG Discussion](https://t.me/defisearchpublic/239587)
+    @Fabi --- *you mentioned NFT and metaverse so there is a marketplace on the said social media?* **--->** [TG Discussion](https://t.me/defisearchpublic/239593)
 
-    @carajulierey01 --- *Also, Legends of Mitra (LoM) is a Strategy Defense game being built on the Wax, Algorand, Binance chain and Ethereum blockchains.* **--->** [TG Discussion](https://t.me/defisearchpublic/239693)
+    @NiEcil --- *The four main features of Torum are the Social Platform itself, DeFi, NFT, and metaverse.* **--->** [TG Discussion](https://t.me/defisearchpublic/239592)
 
-6. **steemit**
+    @MyBoyFriendLovesLongganisa --- *A lot of coins are dropping im wondering if there's NFT or DeFi here for long term🤔* **--->** [TG Discussion](https://t.me/defisearchpublic/239502)
 
-    @NiEcil --- *We have already seen several social media platforms built on blockchain technology, such as Synereo, Hive, and Steemit.* **--->** [TG Discussion](https://t.me/defisearchpublic/239575)
+    @Fabi --- *avatar? what kind of NFT are this?* **--->** [TG Discussion](https://t.me/defisearchpublic/239595)
 
-    @Inessa --- *I was a user of Steemit before.* **--->** [TG Discussion](https://t.me/defisearchpublic/239576)
+    @NiEcil --- *Torum  take the wheel and build a one-stop Social Metaverse by launching Torum Avatar NFTs, the world’s first social-integrated PFP NFTs.* **--->** [TG Discussion](https://t.me/defisearchpublic/239597)
 
-7. **torum social**
+7. **metaverse torum**
 
     @Inessa --- *may I know who backed up Torum?* **--->** [TG Discussion](https://t.me/defisearchpublic/239600)
 
@@ -91,7 +95,7 @@
 
     @NiEcil --- *with Torum users are rewarded with XTM for their time and content.* **--->** [TG Discussion](https://t.me/defisearchpublic/239588)
 
-    @Inessa --- *how, and what is Torum by the way?* **--->** [TG Discussion](https://t.me/defisearchpublic/239567)
+    @NiEcil --- *then you should involve yourself now with Torum and become an early adapter of socialfi metaverse* **--->** [TG Discussion](https://t.me/defisearchpublic/239566)
 
-    @Inessa --- *web3.0 ecosystem has a lot to do with social media platform as it's core* **--->** [TG Discussion](https://t.me/defisearchpublic/239563)
+    @Inessa --- *how, and what is Torum by the way?* **--->** [TG Discussion](https://t.me/defisearchpublic/239567)
 
