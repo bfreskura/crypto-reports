@@ -3,8 +3,9 @@
 Collection of automatically generated summaries from various crypto related Telegram groups.
 
 With hundreds of messages generated every day in multiple crypto Telegram groups, it's often hard to find relevant info among all the noise.
-
 That's why we are developing a tool that can automatically summarize relevant information from any crypto related Telegram group.
+
+Join our official Telegram group to get newest updates: https://t.me/crypto_summaries
 
 ## 📒 List of currently monitored Telegram groups
 
