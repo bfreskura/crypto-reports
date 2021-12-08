@@ -13,7 +13,6 @@ Join our official Telegram group to get newest updates: https://t.me/crypto_summ
 
 - [LobsterDAO](https://t.me/lobsters_chat)
 - [DeFi](https://t.me/de_fi)
-- [Polygon Official](https://t.me/polygonofficial)
 - [DEXTools Community](https://t.me/DEXToolsCommunity)
 - [DeFi Search](https://t.me/defisearchpublic)
 - [OlympusTG](https://t.me/OlympusTG)
