@@ -17,6 +17,17 @@ Join our official Telegram group to get newest updates: https://t.me/crypto_summ
 - [DeFi Search](https://t.me/defisearchpublic)
 - [OlympusTG](https://t.me/OlympusTG)
 - [AMPnet Community Group](https://t.me/ampnetapxchat) (added 7th December 2021.)
+- [Cake DeFi](https://t.me/CakeDeFi_EN) (added 9th December 2021.)
+- [Cardano](https://t.me/Cardano) (added 9th December 2021.)
+- [Synthetixi](https://t.me/synthetixi) (added 9th December 2021.)
+- [Balancer](https://t.me/balancer_officialchat) (added 9th December 2021.)
+- [Binance NFTs](https://t.me/binancenfts) (added 9th December 2021.)
+- [CompoundOfficial](https://t.me/compoundofficialgroup) (added 9th December 2021.)
+- [NEAR Protocol Official](https://t.me/cryptonear) (added 9th December 2021.)
+- [DeFi Yield Protocol](https://t.me/dypfinance) (added 9th December 2021.)
+- [Loopring Official](https://t.me/loopringofficial) (added 9th December 2021.)
+- [Shitpool - Shitcoins, ICOs and DeFi "Innovations"](https://t.me/shitpool) (added 9th December 2021.)
+- [Whalepool](https://t.me/whalepoolbtc) (added 9th December 2021.)
 
 ## ❓ FAQ
 
