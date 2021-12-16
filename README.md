@@ -28,6 +28,22 @@ Join our official Telegram group to get newest updates: https://t.me/crypto_summ
 - [Loopring Official](https://t.me/loopringofficial) (added 9th December 2021.)
 - [Shitpool - Shitcoins, ICOs and DeFi "Innovations"](https://t.me/shitpool) (added 9th December 2021.)
 - [Whalepool](https://t.me/whalepoolbtc) (added 9th December 2021.)
+- [Algorand](https://t.me/algorand) (added 15th December 2021.)
+- [Avalanche](https://t.me/avalancheavax) (added 15th December 2021.)
+- [Axie Infinity](https://t.me/axieinfinity) (added 15th December 2021.)
+- [Chainlink Official](https://t.me/chainlinkofficial) (added 15th December 2021.)
+- [Cosmos Network](https://t.me/cosmosproject) (added 15th December 2021.)
+- [Curve DAO Token Official](https://t.me/curvedaotoken_official) (added 15th December 2021.)
+- [Fantom Foundation](https://t.me/fantom_English) (added 15th December 2021.)
+- [IOTA Tech](https://t.me/iotatangle) (added 15th December 2021.)
+- [Litecoin](https://t.me/Litecoin) (added 15th December 2021.)
+- [OKEx EN](https://t.me/OKExOfficial_English) (added 15th December 2021.)
+- [PancakeSwap](https://t.me/PancakeSwap) (added 15th December 2021.)
+- [Radix DLT](https://t.me/radix_dlt) (added 15th December 2021.)
+- [Ripple - XRP](https://t.me/Ripple) (added 15th December 2021.)
+- [Solana](https://t.me/solana) (added 15th December 2021.)
+- [Terra Luna](https://t.me/terralunachat_officially) (added 15th December 2021.)
+- [Tron Network](https://t.me/tronnetworkEN) (added 15th December 2021.)
 
 ## ❓ FAQ
 
