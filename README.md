@@ -49,7 +49,15 @@ Join our official Telegram group to get newest updates: https://t.me/crypto_summ
 
 ### How often are reports generated?
 
-We generate reports once per day, usually around 18:00 CET.
+There are 2 report types we generate:
+
+1. Daily ones which are generated once per day, usually around 18:00 CET. Daily reports summarize chat data from the last 24 hours.
+
+2. Weekly ones which are generated every Sunday, usually around 12:00 CET. Weekly reports summarize chat data from the last 7 days.
+
+### Summary reports for one or more groups aren't available for some dates. Why?
+
+This means the machine learning model didn't find any relevant topics, usually because there weren't many messages sent in the observed interval.
 
 ### Can we add new Telegram groups?
 
