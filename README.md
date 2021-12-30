@@ -30,7 +30,6 @@ Join our official Telegram group to get newest updates: https://t.me/crypto_summ
 - [Whalepool](https://t.me/whalepoolbtc) (added 9th December 2021.)
 - [Algorand](https://t.me/algorand) (added 15th December 2021.)
 - [Avalanche](https://t.me/avalancheavax) (added 15th December 2021.)
-- [Axie Infinity](https://t.me/axieinfinity) (added 15th December 2021.)
 - [Chainlink Official](https://t.me/chainlinkofficial) (added 15th December 2021.)
 - [Cosmos Network](https://t.me/cosmosproject) (added 15th December 2021.)
 - [Curve DAO Token Official](https://t.me/curvedaotoken_official) (added 15th December 2021.)
