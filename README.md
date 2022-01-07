@@ -1,11 +1,11 @@
 # 📜 Crypto Summaries
 
-Collection of automatically generated summaries from various crypto related Telegram groups.
+Collection of automatically generated summaries from various crypto related Telegram groups and Discord servers.
 
-With hundreds of messages generated every day in multiple crypto Telegram groups, it's often hard to find relevant info among all the noise.
-That's why we are developing a tool that can automatically summarize relevant information from any crypto related Telegram group.
+With hundreds of messages generated every day in multiple crypto chats, it's often hard to find relevant info among all the noise.
+That's why we are developing a tool that can automatically summarize relevant information from any crypto related Telegram group or Discord server.
 
-Join our official Telegram group to get newest updates: https://t.me/crypto_summaries
+Join our official [Telegram group](https://t.me/crypto_summaries) or follow us on [Twitter](https://twitter.com/cryptoSummaries) to get the all the fresh updates.
 
 ## 📒 List of currently monitored Telegram groups
 
@@ -44,6 +44,12 @@ Join our official Telegram group to get newest updates: https://t.me/crypto_summ
 - [Terra Luna](https://t.me/terralunachat_officially) (added 15th December 2021.)
 - [Tron Network](https://t.me/tronnetworkEN) (added 15th December 2021.)
 
+## 📗 List of currently monitored Discord servers
+
+> You can suggest a new server by openning a [new issue](https://github.com/bfreskura/crypto-reports/issues) and tagging it with the `new_discord_server` tag, or by leaving a comment in our [Telegram group](https://t.me/crypto_summaries).
+
+- [Polygon](https://discord.com/channels/635865020172861441) (added 6th January 2022.)
+
 ## ❓ FAQ
 
 ### How often are reports generated?
@@ -56,11 +62,11 @@ There are 2 report types we generate:
 
 ### Summary reports for one or more groups aren't available for some dates. Why?
 
-This means the machine learning model didn't find any relevant topics, usually because there weren't many messages sent in the observed interval.
+This means the machine learning model didn't find any relevant information to summarize, usually because there weren't many messages sent in the observed interval.
 
-### Can we add new Telegram groups?
+### Can we add new Telegram groups or Discord servers?
 
-Absolutely, create a new issue with the link to the Telegram group chat and we'll consider adding it to our summary report.
+Absolutely, create a new issue with the link to the Telegram group/Discord server and we'll consider adding it to our summary report.
 
 ### Why does the quality of summaries varies so much?
 
@@ -68,10 +74,6 @@ Our algorithms use machine learning and statistical algorithms which aren't perf
 It's also possible there wasn't any relevant info in the chat for the analyzed interval, but we can't detect that so the algorithms just spits out an uninformative summary.
 
 We are constantly experimenting with various new algorithms so users can expect results to get better over time.
-
-### What about other sources such as Discord?
-
-Current focus is on Telegram groups, but Discord is also on our long term roadmap.
 
 ### I want you to include some cool new feature. How can I help?
 
