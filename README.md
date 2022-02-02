@@ -1,4 +1,4 @@
-# 📜 Crypto Summaries
+# 📜 WrapUp Summaries
 
 Collection of automatically generated summaries from various crypto related Telegram groups and Discord servers.
 
