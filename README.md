@@ -1,3 +1,9 @@
+# Important Update!!!
+
+Crypto Summaries has rebranded to WrapUp and is now available here: https://wrapup.ai
+
+From now on, this repository is DEPRECATED.
+
 # 📜 WrapUp Summaries
 
 Collection of automatically generated summaries from various crypto related Telegram groups and Discord servers.
